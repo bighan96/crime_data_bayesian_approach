@@ -1,0 +1,6 @@
+read.csv('crime_x.csv')->df_x
+read.csv('crime_y.csv')->df_y
+library(tidyverse)
+library(ggplot2)
+library(corrplot)
+library()
